@@ -10,4 +10,3 @@ Troubleshooting
 	* Run the following command: Set-ExecutionPolicy RemoteSigned
 * Try moving the folder to a local drive on the computer.
 * If phantomJS is not updating your picture - edit the earthNullWallpaper.ps1 file and change $argpath variable.
-- u/rdx313
